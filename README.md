@@ -19,7 +19,8 @@ Create new database, then configure these related entity for database configurat
 
 1. `cd main-project`
 2. `npm i`
-3. `npm run start:dev` to run the server
+3. `npm i ../example`
+4. `npm run start:dev` to run the server
 
 
 ## Test
