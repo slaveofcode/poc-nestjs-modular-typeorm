@@ -4,7 +4,7 @@
 
 #### Create empty database
 
-Create new database, then configure these related entity for database configuration
+Create new database, then configure these related entity for database connection
 
 1. go to `main-project/src/app.module.ts` to update database connection for **example** module. 
 2. create file `main-project/.env`, based on `.env.example` to update database connection for **main-project** module
